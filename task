@@ -1,0 +1,41 @@
+// question 1
+var arr=[
+{
+  "name":"john",
+  "age":"20"
+},
+{
+  "name":"Doe",
+  "age":"21"
+},
+{
+  "name":"ram",
+  "age":"22"
+},
+{
+  "name":"bala",
+  "age":"23"
+}
+];
+for ( var i=0;i<arr.length;i++){
+  console.log(arr[i].name,arr[i].age);
+}
+
+//2 sum
+var resume = {
+    "name": "Balamurugan",
+    "age": 23,
+    "gender": "male",
+    "qualification": ["10th", "12th", "B.com(PA)",""],
+    "location": "KOVILPATTI",
+    "experience": "FRESHER",
+    "language_known": ["tamil", "english"]
+  
+  }
+  console.log(resume);
+
+
+  // question 3
+
+  https://docs.google.com/document/d/13HqDxOYFTxcEFp_C-cyoohoVzlhFQ_KdMToSUetI-qM/edit?usp=sharing
+ 

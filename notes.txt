@@ -1,0 +1,62 @@
+//creating a object
+var obj = {
+  name: "john",
+  age: 23
+}
+console.log(obj);
+//adding key and value to object
+var obj = {
+name: "john",
+age: 23
+}
+obj.gender= "male"
+console.log(obj);
+
+//printing the particular key and valus
+
+var obj = {
+name: "john",
+age: 23
+}
+console.log(obj.name);
+
+var obj ={
+  name: "john",
+  age : 20,
+  gender :"male",
+  attendance:["mon","tues","wes","thu"]
+}
+console.log(obj)
+
+var resume ={
+  name :"john",
+  age : 20,
+  gender :"male",
+  qualification :["10th","12th","degree"],
+  location:"chennai",
+  experience: "10year",
+  language_known:["tamil","english"]
+
+}
+console.log(resume);
+
+
+//array of objects:
+
+{
+    "name":"john",
+    "age";"20"
+}
+{
+    "name":"Doe",
+    "age";"21
+}
+{
+    "name":"ram",
+    "age";"22
+}
+{
+    "name":"bala",
+    "age";"23
+}
+
